@@ -2,7 +2,7 @@
 
 This application capture the screen or active windows, and save them to files, or sends as Base64 images.
 
-[GitHub](https://github.com/RedAty/screen-stealer)
+[GitHub](https://github.com/RedAty/ScreenStealer)
 
 ___
 
@@ -18,14 +18,14 @@ Base functions:
 ScreenStealer.exe <window/screen> <type> <options/timer>
 ```
 
-#####Base64 output to stdout
+###Base64 output to stdout
 ```
 ScreenStealer.exe console
 ScreenStealer.exe window console
 ScreenStealer.exe screen console
 ```
 
-#####HTML Output to <img>
+###HTML Output to <img>
 ```
 ScreenStealer.exe window filename.html append
 ScreenStealer.exe window filename.html
@@ -33,7 +33,7 @@ ScreenStealer.exe screen filename.html append
 ScreenStealer.exe screen filename.html
 ```
 
-#####Image file output
+###Image file output
 If you provide path without extension and an integer after that,
 the application will create a series of images for that time period what you defined.
 
