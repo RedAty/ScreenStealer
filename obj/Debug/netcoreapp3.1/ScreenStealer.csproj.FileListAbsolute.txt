@@ -1,0 +1,17 @@
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\ScreenStealer.exe
+C:\Users\RedAty\source\repos\ScreenStealer\obj\Debug\netcoreapp3.1\ScreenStealer.csprojAssemblyReference.cache
+C:\Users\RedAty\source\repos\ScreenStealer\obj\Debug\netcoreapp3.1\ScreenStealer.AssemblyInfoInputs.cache
+C:\Users\RedAty\source\repos\ScreenStealer\obj\Debug\netcoreapp3.1\ScreenStealer.AssemblyInfo.cs
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\ScreenStealer.deps.json
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\ScreenStealer.runtimeconfig.json
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\ScreenStealer.runtimeconfig.dev.json
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\ScreenStealer.dll
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\ScreenStealer.pdb
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RedAty\source\repos\ScreenStealer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\RedAty\source\repos\ScreenStealer\obj\Debug\netcoreapp3.1\ScreenStealer.csproj.CopyComplete
+C:\Users\RedAty\source\repos\ScreenStealer\obj\Debug\netcoreapp3.1\ScreenStealer.dll
+C:\Users\RedAty\source\repos\ScreenStealer\obj\Debug\netcoreapp3.1\ScreenStealer.pdb

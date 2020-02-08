@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ScreenStealer": {
+      "commandName": "Project",
+      "commandLineArgs": "screen images1/ 3"
+    }
+  }
+}
